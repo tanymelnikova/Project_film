@@ -1,0 +1,1 @@
+('olympus', 757), ('canon', 548), ('nikon', 219), ('zenit', 207), ('зенит', 203), ('pentax', 139), ('samsung', 89)
