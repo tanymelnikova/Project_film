@@ -1,8 +1,0 @@
-('kodak', 3264),
-('ilford', 1225),
- ('portra', 965),
- ('fuji', 952),
-('superia', 591),
- ('fujifilm', 574),
- ('minolta', 507),
- ('mamiya', 500),
