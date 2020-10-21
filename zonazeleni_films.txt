@@ -1,1 +1,0 @@
-('kodak', 1155), ('fuji', 438), ('mju', 408), ('minolta', 154), ('ilford', 138), ('portra', 114)
