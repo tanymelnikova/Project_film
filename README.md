@@ -3,7 +3,7 @@
 _Выполнили: Мельникова Татьяна, Боброва Анна, Митина Елена, Левина Юлиана_
 
 Наш проект посвящен изучению развития пленочной фотографии на основе анализа групп ВКонтакте, посвященных этой теме.
-Для исследования мы выбрали следующие группы: [無秩序と工芸](https://vk.com/besporyadokitehnologia), [Плёнка](https://vk.com/trita.plenka), [Зелёная зона](https://vk.com/zonazeleni) и [ПленКа](https://vk.com/plenka_predlozhka). 
+Для исследования мы выбрали следующие группы: [無秩序と工芸](https://vk.com/besporyadokitehnologia)(Мельникова Татьяна), [Плёнка](https://vk.com/trita.plenka)(Митина Елена), [Зелёная зона](https://vk.com/zonazeleni)(Левина Юлиана) и [ПленКа](https://vk.com/plenka_predlozhka)(Боброва Анна). 
 
 Мы поставили перед собой следующие задачи:
 1. Выявить центры наибольшей популярности пленочной фотографии на основе участников 4-х групп: [無秩序と工芸](https://vk.com/besporyadokitehnologia), [Плёнка](https://vk.com/trita.plenka), [Зелёная зона](https://vk.com/zonazeleni), [ПленКа](https://vk.com/plenka_predlozhka).
